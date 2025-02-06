@@ -1,0 +1,17 @@
+.dialog {
+    display: flex;
+    flex-direction: column;
+    gap: 13px;
+    padding: 10px;
+}
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    gap: 8px;
+}
